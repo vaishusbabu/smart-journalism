@@ -1,2 +1,2 @@
-# smart-journalism
+# smart journalism -backend
  Using MERN Stack
